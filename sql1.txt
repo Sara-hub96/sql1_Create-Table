@@ -4,4 +4,4 @@
                     vegetarian BOOLEAN,
                     vegan BOOLEAN,
                     gluten_free BOOLEAN
-                    );"
+                    );
