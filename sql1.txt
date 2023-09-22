@@ -1,0 +1,7 @@
+"CREATE TABLE IF NOT EXISTS ingredients( 
+                    name VARCHAR(255),
+                    contains_lactose BOOLEAN,
+                    vegetarian BOOLEAN,
+                    vegan BOOLEAN,
+                    gluten_free BOOLEAN
+                    );"
